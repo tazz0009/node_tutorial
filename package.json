@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "0.0.1",
+  "description": "nodejs tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "~1.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tazz0009/node_tutorial.git"
+  },
+  "author": "tazz0009",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tazz0009/node_tutorial/issues"
+  },
+  "homepage": "https://github.com/tazz0009/node_tutorial"
+}
